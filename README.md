@@ -7,16 +7,16 @@ Java
 Eclipse
 Git y GitHub
 
-▶️ Cómo ejecutar
-Clona este repositorio
-Importa el proyecto en Eclipse
-Al importar se debera convertir en java para poder ejecutarse
-Damos click derecho en el proyecto y en configure vemos que este la opcion convert to java
-En caso de no estar la opcion ya mensionada debes ir a properties
-Seleccionamos la opcion Proyect Facets
-Despues seleccionamos la opcion de java
-Para finalizar le pulsamos en Apply and Close
-Asi se podra ejecutar el proyecto
+## ▶️ Cómo ejecutar
+1. Clona este repositorio
+2. Importa el proyecto en Eclipse
+3. Al importar se debera convertir en java para poder ejecutarse
+4. Damos click derecho en el proyecto y en configure vemos que este la opcion convert to java
+5. En caso de no estar la opcion ya mensionada debes ir a properties
+6. Seleccionamos la opcion Proyect Facets
+7. Despues seleccionamos la opcion de java
+8. Para finalizar le pulsamos en Apply and Close
+9. Asi se podra ejecutar el proyecto 
 
 🎯 Uso del Juego
 El juego muestra un tablero de 10x10 oculto.

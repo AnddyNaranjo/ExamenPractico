@@ -34,19 +34,29 @@ Se selecciona una mina (Derrota).
 📂 Estructura del Proyecto
 
 buscaminas/
+
  ├── Main.java              # Punto de entrada
+ 
  ├── controlador/           # Controlador del juego
+ 
  ├── modelo/                # Lógica y datos
+ 
  ├── vista/                 # Interfaz en consola
+ 
  └── excepciones/           # Excepciones personalizadas
 
  💻 Ejemplo de Ejecución
 
  === Bienvenido al Buscaminas ===
+ 
    1 2 3 4 5 6 7 8 9 10
+   
 A  ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
+
 B  ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
+
 C  ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
+
 ...
 
 Ingrese coordenada (ej: A5) o 'M A5' para marcar:

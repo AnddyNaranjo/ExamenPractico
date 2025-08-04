@@ -1,11 +1,14 @@
-Proyecto POO - Unidad 4
+# Proyecto POO - Examen Practico
+
+** Descripción
+
 Este proyecto implementa el clásico juego **Buscaminas** en **Java**, ejecutándose en consola.  
 Fue desarrollado aplicando **Programación Orientada a Objetos (POO)**, el patrón **MVC**, manejo de **excepciones personalizadas**, persistencia de datos y principios de **código limpio**.
 
-Tecnologías utilizadas
-Java
-Eclipse
-Git y GitHub
+## Tecnologías utilizadas
+- Java
+- Eclipse
+- Git y GitHub
 
 ## ▶️ Cómo ejecutar
 1. Clona este repositorio
@@ -18,20 +21,20 @@ Git y GitHub
 8. Para finalizar le pulsamos en Apply and Close
 9. Asi se podra ejecutar el proyecto 
 
-🎯 Uso del Juego
+## 🎯 Uso del Juego
 El juego muestra un tablero de 10x10 oculto.
 
 El jugador puede:
 
-Descubrir una casilla: escribir la coordenada (Ej: A5).
-Marcar una mina: escribir M A5.
+- Descubrir una casilla: escribir la coordenada (Ej: A5).
+- Marcar una mina: escribir M A5.
 
 El juego termina cuando:
 
-Se descubren todas las casillas sin minas (Victoria).
-Se selecciona una mina (Derrota).
+- Se descubren todas las casillas sin minas (Victoria).
+- Se selecciona una mina (Derrota).
 
-📂 Estructura del Proyecto
+## 📂 Estructura del Proyecto
 
 buscaminas/
 
@@ -45,7 +48,7 @@ buscaminas/
  
  └── excepciones/           # Excepciones personalizadas
 
- 💻 Ejemplo de Ejecución
+## 💻 Ejemplo de Ejecución
 
  === Bienvenido al Buscaminas ===
  
@@ -63,6 +66,7 @@ Ingrese coordenada (ej: A5) o 'M A5' para marcar:
 
 
 
-👨‍💻 Autor
+## 👨‍💻 Autor
 Anddy Naranjo – Desarrollador principal
+
 (Responsable de la implementación completa del proyecto)
